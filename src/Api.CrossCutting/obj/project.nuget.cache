@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kePzL2WD8EwijCaOLnl3Bufy+NnMi0STyiYrF7dU8d3UH8vM93K/DD4+gBodX7UQAJY5uAa8u3bO5fUCqoqzhA==",
+  "dgSpecHash": "h9TpoHB2wZjEDq8N/ngCsmagYjpkgglI1vWRHSNbtWiBFh1UKb5AWjVe3I2Ms8CGd4XNhzoHgxclN8hUJcteRg==",
   "success": true,
-  "projectFilePath": "/Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/CrossCutting.csproj",
+  "projectFilePath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

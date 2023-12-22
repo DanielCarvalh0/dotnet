@@ -1,31 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/CrossCutting.csproj": {}
+    "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {}
   },
   "projects": {
-    "/Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/CrossCutting.csproj": {
+    "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/CrossCutting.csproj",
+        "projectUniqueName": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "/Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/CrossCutting.csproj",
-        "packagesPath": "/Users/danielcarvalho/.nuget/packages/",
-        "outputPath": "/Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/obj/",
+        "projectPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\mfrin\\.nuget\\packages\\",
+        "outputPath": "C:\\curso_api_netcore\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/danielcarvalho/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\mfrin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "netcoreapp3.1"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -36,16 +37,14 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
