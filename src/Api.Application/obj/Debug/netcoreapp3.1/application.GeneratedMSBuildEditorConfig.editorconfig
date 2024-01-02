@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = application
+build_property.ProjectDir = /Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.Application/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
