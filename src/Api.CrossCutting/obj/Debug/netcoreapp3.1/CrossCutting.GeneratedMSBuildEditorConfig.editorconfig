@@ -1,5 +1,0 @@
-is_global = true
-build_property.RootNamespace = CrossCutting
-build_property.ProjectDir = /Users/danielcarvalho/Sites/dotnet/dotnet/src/Api.CrossCutting/
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
